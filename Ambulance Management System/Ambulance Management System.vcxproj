@@ -136,6 +136,11 @@
     <ClCompile Include="UI.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\5-PriorityQueue\LinkedQueue.h" />
+    <ClInclude Include="..\5-PriorityQueue\Node.h" />
+    <ClInclude Include="..\5-PriorityQueue\priNode.h" />
+    <ClInclude Include="..\5-PriorityQueue\priQueue.h" />
+    <ClInclude Include="..\5-PriorityQueue\QueueADT.h" />
     <ClInclude Include="Car.h" />
     <ClInclude Include="Hospital.h" />
     <ClInclude Include="Organizer.h" />

@@ -1,4 +1,6 @@
 #include <iostream>
+#include "LinkedQueue.h"
+#include "priQueue.h"
 
 int main()
 {
