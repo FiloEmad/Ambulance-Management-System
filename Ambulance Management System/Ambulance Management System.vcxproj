@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="Ambulance Management System.cpp" />
     <ClCompile Include="Car.cpp" />
+    <ClCompile Include="FileName.cpp" />
     <ClCompile Include="Hospital.cpp" />
     <ClCompile Include="Organizer.cpp" />
     <ClCompile Include="Patient.cpp" />
