@@ -129,22 +129,21 @@
   <ItemGroup>
     <ClCompile Include="Ambulance Management System.cpp" />
     <ClCompile Include="Car.cpp" />
-    <ClCompile Include="FileName.cpp" />
     <ClCompile Include="Hospital.cpp" />
     <ClCompile Include="Organizer.cpp" />
     <ClCompile Include="Patient.cpp" />
     <ClCompile Include="UI.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\5-PriorityQueue\LinkedQueue.h" />
-    <ClInclude Include="..\5-PriorityQueue\Node.h" />
-    <ClInclude Include="..\5-PriorityQueue\priNode.h" />
-    <ClInclude Include="..\5-PriorityQueue\priQueue.h" />
-    <ClInclude Include="..\5-PriorityQueue\QueueADT.h" />
     <ClInclude Include="Car.h" />
     <ClInclude Include="Hospital.h" />
+    <ClInclude Include="LinkedQueue.h" />
+    <ClInclude Include="Node.h" />
     <ClInclude Include="Organizer.h" />
     <ClInclude Include="Patient.h" />
+    <ClInclude Include="priNode.h" />
+    <ClInclude Include="priQueue.h" />
+    <ClInclude Include="QueueADT.h" />
     <ClInclude Include="UI.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

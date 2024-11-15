@@ -33,9 +33,6 @@
     <ClCompile Include="Patient.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="FileName.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="UI.h">
@@ -53,19 +50,19 @@
     <ClInclude Include="Patient.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\5-PriorityQueue\LinkedQueue.h">
+    <ClInclude Include="LinkedQueue.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\5-PriorityQueue\Node.h">
+    <ClInclude Include="Node.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\5-PriorityQueue\priNode.h">
+    <ClInclude Include="priNode.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\5-PriorityQueue\priQueue.h">
+    <ClInclude Include="priQueue.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\5-PriorityQueue\QueueADT.h">
+    <ClInclude Include="QueueADT.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
