@@ -20,6 +20,6 @@ private:
 	int s_SC;
 
 public:
-
+	Hospital(int NC, int speed_NC, int SC, int speed_SC);
 };
 
